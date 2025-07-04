@@ -1,6 +1,5 @@
-# OpenHydrogen_PhotonGold
-Photon-Gold Matrix – a commons-based theoretical design for solar hydrogen production using gold nano-matrices 
-OpenHydrogen: The Photon-Gold Matrix
+
+# 🌞 OpenHydrogen: The Photon-Gold Matrix
 
 **A Commons-Based Vision for Clean, Decentralized Hydrogen**
 
@@ -15,7 +14,7 @@ This project introduces the **Photon-Gold Matrix** — a theoretical design for 
 
 ## 🧪 How It Works (In Theory)
 
-Gold, when structured into specific nanoscale geometries, may be able to concentrate solar photons into nanoscale hot spots strong enough to break the bonds in water - without electricity, semiconductors, or wires.
+Gold, when structured into specific nanoscale geometries, may be able to concentrate solar photons into nanoscale hot spots strong enough to break the bonds in water — without electricity, semiconductors, or wires.
 
 This system could offer a radically simple, emission-free pathway to hydrogen energy.
 
